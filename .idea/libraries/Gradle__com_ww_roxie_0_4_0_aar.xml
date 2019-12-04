@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.ww:roxie:0.4.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c2163b1a002968261e8b5f06caa64200/roxie-0.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c2163b1a002968261e8b5f06caa64200/roxie-0.4.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ww/roxie/0.4.0/605a2a2ebd0552045e47934d852f06d1e66d94b6/roxie-0.4.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ww/roxie/0.4.0/aae5bf96b17d198a3b50a6c8d0a07961799c56bd/roxie-0.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
